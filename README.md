@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 ---
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyrics0511)](https://solved.ac/profile/lyrics0511)
+[![https://solved.ac/profile/lyrics0511](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyrics0511)](https://solved.ac/profile/lyrics0511)
 
 
 <!--
