@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요 👋
+---
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyrics0511)](https://solved.ac/lyrics0511)
+
 
 <!--
 **Yeriimii/Yeriimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
